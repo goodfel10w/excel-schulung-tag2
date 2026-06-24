@@ -15,7 +15,8 @@ eigene Funktionen bis zum Report-Generator – plus eine Vertiefung zu
 | `Schulung_Excel-VBA.xlsx` | Die **Arbeitsmappe**, mit der wir alle Übungen machen (Blätter *Artikel, Bestellungen, Umsatz, Tickets, Rohdaten*). |
 | `Excel-Schulung_Aufgaben.xlsx` | Das **komplette Aufgaben-Spreadsheet**: Übersicht, alle Datenblätter **und** je ein Blatt pro Set mit den **Anweisungen** – **ohne** Lösungen. |
 | `Set-13_Debugging-Werkstatt_Aufgabe.xlsx` | Die **Übungsmappe** für die Debugging-Werkstatt (Blätter *Anleitung, Rohdaten, Report*). |
-| `aufgaben/` | Die **Aufgabenblätter** der Tag-2-Sets als PDF (Set 07–12) sowie der neuen **Debugging-Werkstatt** (Set 13). |
+| `Set-14_Funktions-Werkstatt_Aufgabe.xlsx` | Die **Übungsmappe** für die Funktions-Werkstatt (Formel-Marathon über viele Funktionsfamilien, mit Antwortbereichen). |
+| `aufgaben/` | Die **Aufgabenblätter** der Tag-2-Sets als PDF (Set 07–12), der **Debugging-Werkstatt** (Set 13) und der **Funktions-Werkstatt** (Set 14). |
 | `vba/Modul13_Debugging_BUGGY.bas` | Das **fehlerhafte Makro** für die Debugging-Werkstatt zum Importieren (Alt+F11 → Datei → Datei importieren). |
 
 ## Die Tag-2-Sets
@@ -27,6 +28,7 @@ eigene Funktionen bis zum Report-Generator – plus eine Vertiefung zu
 11. **Fehler & Debugging** — `On Error`, `Err`
 12. **Finale: Report-Generator** (Meilenstein 2)
 13. **Debugging-Werkstatt** — Bugs jagen mit dem VBA-Debugger (F8/F9/Direktfenster/Lokal/Watch) und Fehlerbehandlung (≈ 60 Min, Vertiefung zu Set 11)
+14. **Funktions-Werkstatt** (Bonus) — Formel-Marathon über viele Funktionsfamilien: Text, Datum, Logik & Fehler, bedingte Aggregation und **XVERWEIS** (≈ 60 Min, reine Excel-Formeln)
 
 ## Debugging-Werkstatt starten (Set 13)
 
